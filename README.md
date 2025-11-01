@@ -1,4 +1,4 @@
-# 🔬 White Blood Cell Classification using CNN
+#  White Blood Cell Classification using CNN
 
 [![Python](https://img.shields.io/badge/Python-3.7%2B-blue.svg)](https://www.python.org/)
 [![TensorFlow](https://img.shields.io/badge/TensorFlow-2.x-orange.svg)](https://tensorflow.org/)
@@ -8,7 +8,10 @@
 
 A deep learning project implementing a Convolutional Neural Network (CNN) for automated classification of white blood cells from microscopic images, achieving 95% accuracy across five cell types.
 
-**Author:** Muhammad Husnain Ali
+## Rushi Patel (12202120601038)
+## Tanish Patel (12202120601048)
+## Vivek chanchlani (12202120601060)
+
 
 ## 🛠️ Technologies Used
 
@@ -179,11 +182,6 @@ print(f"Predicted: {predicted_class} with {confidence:.2%} confidence")
 4. Push to branch (`git push origin feature/AmazingFeature`)
 5. Open Pull Request
 
-## 📞 Support
-
-For questions and support:
-- Open an [Issue](https://github.com/M-Husnain-Ali/White-Blood-Cell-Classification/issues)
-- Contact: m.husnainali.work@gmail.com
 
 ## 🙏 Acknowledgments
 
@@ -192,5 +190,5 @@ For questions and support:
 - Google Colab for free GPU resources
 - All contributors to this project
 
+---
 
-made with Rushi Patel by Vivek Chanchlani 
